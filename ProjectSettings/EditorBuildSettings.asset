@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Other/TouchInput.unity
+    guid: 0240d26010020824abfabe7a4ee9155c
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/StartScene.unity
+    guid: d9c2377e7c5f8a6488c7b67e8ebc442f
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/MainMenu.unity
+    guid: 7780bef89aca9c04da85d0a6126eb6b2
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Pilih Track/Pilih_Multi.unity
+    guid: 90af2fd9290fce7448e66f6070c9b994
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Pilih Track/Pilih_Single.unity
+    guid: b19d9e3562f892c45b8aeadbb5875d9f
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Control Info/Track A/Info_Multi_A.unity
+    guid: 28f8695c03e87b842b7326080aa6b962
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Control Info/Track A/Info_Single_A.unity
+    guid: b771a314aba19ae44af2acd78caec791
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Control Info/Track B/Info_Multi_B.unity
+    guid: 84cc0bdf67ed7854a8323d48e20ba276
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Control Info/Track B/Info_Single_B.unity
+    guid: e6b29feda740c5846a123a3c759a3d0d
+  - enabled: 1
+    path: Assets/Scenes/Other/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Track A/Singleplayer_TrackA.unity
+    guid: 52b91b07234fed34d96f2c4b8c027741
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Track A/Multiplayer_TrackA.unity
+    guid: be53e78fa4c32464fab0d1d5d44144fc
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Track B/Singleplayer_TrackB.unity
+    guid: 65139485cbb13a3458c116c489e20b19
+  - enabled: 1
+    path: Assets/Scenes/Jackal Raceway/Track B/Multiplayer_TrackB.unity
+    guid: eba38c4aa29d6a24c8d52421685a3088
+  m_configObjects: {}
