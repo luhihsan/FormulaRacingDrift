@@ -1,8 +1,1 @@
-# SteeringWheel
-An OpenCV based steering wheel to play racing games
-
-<br />
-The youtube demo video[https://www.youtube.com/watch?v=eOWEf7E_vbY]
-
-<br/>
-The tutorial video[https://www.youtube.com/watch?v=k0TSjLBCaT0]
+A racing game with a top down view. Here you will be invited to experience the experience of taking a formula car across the circuit and defeating your opponents. This game was developed with Unity and has an innovative controller because to control the car steering using gesture recognition using Python.
